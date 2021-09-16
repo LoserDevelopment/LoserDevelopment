@@ -1,10 +1,10 @@
-<h1 style="text-align:center;">Hi there, I’m Loser!</h1>
+<h1>Hi there, I’m Loser!</h1>
 
-I’m interested in software development and am an australian high schooler with experience in Python, HTML and CSS.
+I’m interested in software development, and am an Australian high schooler with experience in Python, HTML and CSS.
 
 <br>
 
-I also have a YouTube channel where I play games, which you can find at <a href="solo.to/actuallyloser" target="_blank">solo.to/actuallyloser</a>
+I also have a YouTube channel where I play games, which you can find at <a href="https://solo.to/actuallyloser" target="_blank">solo.to/actuallyloser</a>
 
 <br>
 
