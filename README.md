@@ -6,8 +6,9 @@ I’m interested in software development, and am an Australian high schooler wit
 
 I also have a YouTube channel where I play games, which you can find at <a href="https://solo.to/actuallyloser" target="_blank">solo.to/actuallyloser</a>
 
-- I am currently trying to learn Javascript, as I am interested in more advanced web development
 
-- I have made websites in the past using the python framework flask, and basic node.js
+- I am interested in Java, C++ and web development tools such as HTML and CSS
 
-- I have also made apps using swift before, and have made small games using Unity
+- I am the CEO of infinitystudios
+
+- I am working on a minecraft hacked client
